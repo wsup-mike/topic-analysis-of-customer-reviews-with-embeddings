@@ -5,3 +5,9 @@ requests>=2.32.0
 # pandas
 openai
 pandas
+python-dotenv
+numpy
+scikit-learn
+matplotlib
+chromadb
+scipy
